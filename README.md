@@ -7,7 +7,7 @@
 - ARTIGO 2: [O que é Markdown](https://www.alura.com.br/artigos/como-trabalhar-com-markdown)
 - ARTIGO 3: [EX: Readme do projeto Alura Midi do curso de Javascript](https://github.com/vanessametonini/aluramidi-curso/blob/master/README.md)
 - ARTIGO 4: [EX: Readme do projeto android com kotlin do curso de android](https://github.com/alura-cursos/android-com-kotlin-personalizando-ui/blob/master/README.md)
-- Hospedado em: [Link Vercel](https://html-css-two-alpha.vercel.app/)
+- Hospedado em: [Link Vercel](https://challenge-jogo-do-amigo-secreto.vercel.app/)
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 ![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
